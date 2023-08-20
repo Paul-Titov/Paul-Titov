@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Paul Titov, oracle pl/sql developer and teamlead
-- 🌱 I’m currently learning Java EE/Spring MVC
+- 👋 Hi, I’m @Paul Titov, c# .net developer
 - 📫 You can text to me by telegram: @PlTtv
 
 <!---
