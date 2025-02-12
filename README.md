@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Paul Titov, c# .net developer
+- 👋 Hi, I’m @Paul Titov, oracle plsql/java/c# developer
 - 📫 You can text to me by telegram: @PlTtv
 
 <!---
